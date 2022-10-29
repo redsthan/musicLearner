@@ -1,0 +1,14 @@
+Created by Nathan Rousseau
+
+Replace the example link in the code, by the adress of the folder unzipped of the musics.
+
+Upload the librairies : 
+
+Open the command line, and write :
+
+pip install pyttsx3
+pip install eyed3
+pip install pygame
+pip install win10toast
+
+Execute the main code and learn !!
